@@ -1,7 +1,4 @@
-#include <IRremote.h>
-
-#include <EEPROM.h>
-
+#include<stdio.h>
 #include <LiquidCrystal.h>
 LiquidCrystal lcd(12, 11, 5, 4, 3, 2);
 const int buzzer=7;
